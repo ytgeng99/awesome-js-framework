@@ -1,0 +1,1 @@
+var const = "This is for awesome";
